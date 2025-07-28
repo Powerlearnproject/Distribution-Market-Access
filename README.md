@@ -32,12 +32,16 @@ No centralized platform for ongoing impact reporting, storytelling, or investmen
 ## Solution
 Potential Focus Areas for Solutions
 
->> Build an inclusive, multi-channel discovery system (e.g., WhatsApp alerts, SMS, USSD, community ambassadors).
->> Develop a step-by-step guided application wizard with offline capabilities and language options.
->> Design an AI-powered document checker to validate formatting and completeness before submission.
->> Introduce a contract simplifier tool (like a chatbot or glossary overlay) to demystify legal terms.
->> Create a mobile-friendly expense tracker with voice-to-text or image recognition for receipts.
->> Launch a hybrid learning hub tailored to applicant schedules and devices, with check-ins via WhatsApp.
->> Enable real-time impact dashboards for storytelling, investor matching, and grant progress.
+Build an inclusive, multi-channel discovery system (e.g., WhatsApp alerts, SMS, USSD, community ambassadors).
+Develop a step-by-step guided application wizard with offline capabilities and language options.
+Design an AI-powered document checker to validate formatting and completeness before submission.
+Introduce a contract simplifier tool (like a chatbot or glossary overlay) to demystify legal terms.
+Create a mobile-friendly expense tracker with voice-to-text or image recognition for receipts.
+Launch a hybrid learning hub tailored to applicants schedules and devices, with check-ins via WhatsApp.
+Enable real-time impact dashboards for storytelling, investor matching, and grant progress.
 
+### How to clone
+```
+https://github.com/Powerlearnproject/Distribution-Market-Access.git
+```
 ### Happy Hacking!

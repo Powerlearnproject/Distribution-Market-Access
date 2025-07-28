@@ -37,11 +37,18 @@ Develop a step-by-step guided application wizard with offline capabilities and l
 Design an AI-powered document checker to validate formatting and completeness before submission.
 Introduce a contract simplifier tool (like a chatbot or glossary overlay) to demystify legal terms.
 Create a mobile-friendly expense tracker with voice-to-text or image recognition for receipts.
-Launch a hybrid learning hub tailored to applicants schedules and devices, with check-ins via WhatsApp.
+Launch a hybrid learning hub tailored to applicants' schedules and devices, with check-ins via WhatsApp.
 Enable real-time impact dashboards for storytelling, investor matching, and grant progress.
 
 ### How to clone
 ```
-https://github.com/Powerlearnproject/Distribution-Market-Access.git
+git clone https://github.com/Powerlearnproject/Distribution-Market-Access.git
 ```
+
+Navigate to the working directory
+
+```
+cd Distribution-Market-Access
+```
+
 ### Happy Hacking!
